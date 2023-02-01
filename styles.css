@@ -438,18 +438,6 @@ select{
 }
 
 @media (max-width: 320px) {
-    .tercera-parte h3{
-        font-size: 17px;
-        margin-left: 20px;
-    }
-    .tercera-parte h3 img{
-        width: 130px;
-        height: auto;
-    }
-    .tercera-parte p{
-        font-size: 16px;
-        margin-left: 20px;
-    }
     .cam-home img{
         width: 180px;
         height: auto;
@@ -468,6 +456,18 @@ select{
 }
 
 @media (max-width: 500px) {
+    .tercera-parte h3{
+        font-size: 17px;
+        margin-left: 20px;
+    }
+    .tercera-parte h3 img{
+        width: 130px;
+        height: auto;
+    }
+    .tercera-parte p{
+        font-size: 16px;
+        margin-left: 20px;
+    }
     .cam-home img{
         width: 180px;
         height: auto;
